@@ -12,7 +12,7 @@ Apaixonado por tecnologia e em constante aprendizado, buscando evoluir minhas ha
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - **Versionamento:** Git & GitHub  
 - **Design:** Figma  
 - **Front-end:**  
