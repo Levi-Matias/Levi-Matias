@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou Levi Matias!
 
-<!--
-**Levi-Matias/Levi-Matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspirante a Desenvolvedor**  
+Apaixonado por tecnologia e em constante aprendizado, buscando evoluir minhas habilidades e construir projetos cada vez melhores.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- Atualmente focado em **Desenvolvimento Web**
+- Sempre aprendendo e praticando novas tecnologias
+- Em busca da minha primeira oportunidade como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Versionamento:** Git & GitHub  
+- **Design:** Figma  
+- **Front-end:**  
+  - HTML5  
+  - CSS3  
+  - JavaScript  
+
+---
+
+## 📌 O que você vai encontrar por aqui
+- Projetos de estudo
+- Exercícios práticos
+- Experimentos com front-end
+- Evolução constante do meu aprendizado
+
+---
+
+## 📈 Objetivos
+- Aprimorar meus conhecimentos em JavaScript
+- Aprender frameworks e bibliotecas modernas
+- Contribuir com projetos open source
+- Conquistar minha primeira vaga como dev
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: www.linkedin.com/in/levi-matias
+- 📧 Email: pedrolevi427@gmail.com
