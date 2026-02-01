@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Levi Matias!
+# Olá, eu sou Levi Matias!
 
 **Aspirante a Desenvolvedor**  
 Apaixonado por tecnologia e em constante aprendizado, buscando evoluir minhas habilidades e construir projetos cada vez melhores.
@@ -15,10 +15,12 @@ Apaixonado por tecnologia e em constante aprendizado, buscando evoluir minhas ha
 ## 🛠️ Tecnologias e Ferramentas
 - **Versionamento:** Git & GitHub  
 - **Design:** Figma  
-- **Front-end:**  
+- **Front-end & Back-end**  
   - HTML5  
   - CSS3  
-  - JavaScript  
+  - JavaScript
+  - TypeScript
+  - Servidores
 
 ---
 
